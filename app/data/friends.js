@@ -2,7 +2,7 @@ var friendsArray = [
 	{
 	  "name":"Rachel",
 	  "photo":"https://s1.r29static.com//bin/entry/911/430x516,80/1356319/image.jpg",
-	  "sex":"male",
+	  "gender":"male",
 	  "scores":[
 	     5,
 	     1,
@@ -19,7 +19,7 @@ var friendsArray = [
 	{
 	  "name":"Monica",
 	  "photo":"https://www.seenshot.in/wp-content/uploads/2018/04/Monica-from-friends.jpg",
-	  "sex":"female",
+	  "gender":"female",
 	  "scores":[
 	     1,
 	     2,
@@ -36,7 +36,7 @@ var friendsArray = [
 	{
 	  "name":"Joey",
 	  "photo":"https://imgix.bustle.com/uploads/image/2018/8/30/540599ec-b13a-428c-8075-6f15bda099d6-joey-tribbianni-best-pickup-lines.png?w=945&h=574&fit=crop&crop=faces&auto=format&q=70&dpr=2",
-	  "sex":"female",
+	  "gender":"female",
 	  "scores":[
 	     4,
 	     5,
@@ -53,7 +53,7 @@ var friendsArray = [
 	{
 	  "name":"Ross",
 	  "photo":"http://www.comedycentral.co.uk/sites/default/files/styles/image-w-520-h-520-scale/public/cc_uk/galleries/large/2017/01/10/ross_finds_out_rachel_pregnant.jpg?itok=gYlbc7Cn",
-	  "sex":"male",
+	  "gender":"male",
 	  "scores":[
 	     2,
 	     3,
@@ -69,5 +69,5 @@ var friendsArray = [
 	}
 ];
 
-// Set up table to be accessible to other files using require.
+
 module.exports = friendsArray;

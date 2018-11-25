@@ -1,0 +1,16 @@
+body {
+    
+}
+
+.main {
+    margin-top: 10%;
+}
+
+.footer{
+    margin-top: 3%;
+}
+
+#submit {
+    background-color:darkblue;
+    width: 12%;
+}
